@@ -1,6 +1,6 @@
 # 终止权 / The Right to Terminate
 
-Public reading edition of a science-fiction story, with the expanded Chinese novel (25 chapters and epilogue), a 120-page Chinese comic, and the original 79-page English comic.
+Public reading edition of a science-fiction story, with the expanded Chinese novel (25 chapters and epilogue, updated November 6, 2026), a 136-page Chinese comic, and the original 79-page English comic.
 
 Read: https://openspyusa.github.io/
 
