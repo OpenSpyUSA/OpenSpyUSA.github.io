@@ -9,3 +9,5 @@ The author devised the story and directed revisions. Generative AI assisted with
 Future actions, offices, dialogue and election outcomes involving real people and companies are fictional. This is fiction. Publication for free reading does not grant a general commercial-use or adaptation license. Rights remain with the relevant rights holders. No open-content license is granted by this repository.
 
 The repository contains only public reading pages and publication assets. Private drafts, editorial records, correspondence and other workspace material are not included.
+
+Chinese comic: November 7, 2026 refined illustrated edition, 136 story pages plus cover. The approved fifth character design is adopted; dialogue, storyboards, and the prior voxel edition are preserved.
