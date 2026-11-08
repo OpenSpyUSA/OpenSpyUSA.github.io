@@ -11,3 +11,5 @@ Future actions, offices, dialogue and election outcomes involving real people an
 The repository contains only public reading pages and publication assets. Private drafts, editorial records, correspondence and other workspace material are not included.
 
 Chinese comic: November 7, 2026 refined illustrated edition, 136 story pages plus cover. The approved fifth character design is adopted; dialogue, storyboards, and the prior voxel edition are preserved.
+
+Chinese comic narrative revision: 150 story pages plus cover; ten election pages, voters, private exchanges, first-appearance introductions, and nine targeted acting redraws. The prior 136-page refined edition remains available.
